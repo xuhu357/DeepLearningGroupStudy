@@ -1,0 +1,10 @@
+# 발표 자료 준비시 참고하면 좋은 싸이트 공유. 
+
+# 밑바닥 딥러닝 Github (코드/공식/그림 모두 제공해줌.)
+https://github.com/WegraLee/deep-learning-from-scratch
+
+# Jupyter notebook 사용법
+https://www.youtube.com/watch?v=SLPo0o_HArs
+
+# Python 설치 방법
+구글에 anaconda 설치라고 검색하면 끝.
